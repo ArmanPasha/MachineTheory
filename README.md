@@ -1,0 +1,2 @@
+# MachineTheory
+Projects about automata
